@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div align="center">There is nothing noble in being superior to your fellow man;
+  <h2 style="margin-top: 0.1em;">true nobility is being superior to your former self.</h2>
+</div>
+<div align="right">🌱 Ernest Hemingway</div>
 <!--
 **microgift/microgift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
