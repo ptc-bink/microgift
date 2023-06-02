@@ -76,4 +76,5 @@
 <br />
 
 ## 🔭 Currently working in
-![Screenshot_14](https://user-images.githubusercontent.com/29230603/191172999-7409fc8e-9bc8-4f46-a453-27b67047f0f6.png)
+![greatgoat_wide](https://github.com/microgift/microgift/assets/127183857/20ee6ba9-180e-421a-83bc-0f0a9da6123d)
+
