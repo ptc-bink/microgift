@@ -6,8 +6,8 @@
 ## 🎓 Learning & Certificate
 <a href="https://www.hackerrank.com/microgift"><img src="https://seeklogo.com/images/H/hackerrank-logo-179D7D2812-seeklogo.com.png" alt="HackerRank" title="HackerRank" height="35" /></a>
 <a href="https://www.leetcode.com/microgift"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/127183857/243115431-0393dd99-5f19-4de1-8946-3c42df4aa81d.png" alt="Leetcode" title="Leetcode" height="35" /></a>
-<a href="https://www.credly.com/users/karol-czerwinski.bb1d22a5"><img src="https://cdn.credly.com/assets/structure/logo-78b59f8114817c758ca965ed8f1a58a76a39b6fd70d031f771a9bbc581fcde65.svg" alt="Credly" title="Credly" height="35" /></a>
-&nbsp;
+<!-- <a href="https://www.credly.com/users/karol-czerwinski.bb1d22a5"><img src="https://cdn.credly.com/assets/structure/logo-78b59f8114817c758ca965ed8f1a58a76a39b6fd70d031f771a9bbc581fcde65.svg" alt="Credly" title="Credly" height="35" /></a>
+&nbsp; -->
 ## 💰 Chain based
 <span><img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" alt="Solana logo" title="Solana" height="35" />
 &nbsp;
