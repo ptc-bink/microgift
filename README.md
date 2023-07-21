@@ -3,6 +3,8 @@
 </div>
 <div align="right">🌱 Ernest Hemingway</div>
 
+✨ <a href="https://github.com/microgift/web3-projects-overview"> Web3 Projects Overview </a> ✨
+
 ## 🎓 Learning & Certificate
 <a href="https://www.hackerrank.com/microgift"><img src="https://seeklogo.com/images/H/hackerrank-logo-179D7D2812-seeklogo.com.png" alt="HackerRank" title="HackerRank" height="35" /></a>
 <a href="https://www.leetcode.com/microgift"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/127183857/243115431-0393dd99-5f19-4de1-8946-3c42df4aa81d.png" alt="Leetcode" title="Leetcode" height="35" /></a>
